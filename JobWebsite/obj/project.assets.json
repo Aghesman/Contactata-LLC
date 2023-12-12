@@ -3787,11 +3787,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Desktop\\GT\\Contactata LLC\\JobWebsite\\Contactata.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Pictures\\dotN\\Contactata LLC\\JobWebsite\\Contactata.csproj",
       "projectName": "Contactata",
-      "projectPath": "C:\\Users\\USER\\OneDrive\\Desktop\\GT\\Contactata LLC\\JobWebsite\\Contactata.csproj",
+      "projectPath": "C:\\Users\\USER\\OneDrive\\Pictures\\dotN\\Contactata LLC\\JobWebsite\\Contactata.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\OneDrive\\Desktop\\GT\\Contactata LLC\\JobWebsite\\obj\\",
+      "outputPath": "C:\\Users\\USER\\OneDrive\\Pictures\\dotN\\Contactata LLC\\JobWebsite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

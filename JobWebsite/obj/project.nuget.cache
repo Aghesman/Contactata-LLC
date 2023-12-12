@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qCgHunjPA9thXaz18VcdSxHKfeHEkaxj/lgckiUYq2W+gyE304HyYUvE27u+MIOw8a3vnrnPZuB0s1F5wdcv6Q==",
+  "dgSpecHash": "GXiKDcZ6eyynNGolXBz6GBfSBrEYUXfZF4KibKblrwMDJ9lLzfYNP7XgmWVY8RLPL4iun8bd2DQpCSO/EvXrsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\OneDrive\\Desktop\\GT\\Contactata LLC\\JobWebsite\\Contactata.csproj",
+  "projectFilePath": "C:\\Users\\USER\\OneDrive\\Pictures\\dotN\\Contactata LLC\\JobWebsite\\Contactata.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
