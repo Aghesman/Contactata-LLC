@@ -1,0 +1,123 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Contactata LLC</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/JobWebsite.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Contactata LLC</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+
+                        <!--  navigation links -->
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-controller="JobApplication" asp-action="Index" style="text-decoration: none;">Contact Us&nbsp;</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-controller="JobApplication" asp-action="SavedEntries" style="text-decoration: none;">&nbsp;View Contact Messages</a>
+                        </li>
+                        <!--  navigation links -->
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+    </header>
+    <p style="text-align:center"><span style="color:#e74c3c"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:26px"><strong>Welcome to Contactata LLC | The best digital marketing agency&nbsp;</strong></span></span></span></p>
+    </a>
+    <table style="width: 100%; border-collapse: collapse;">
+        <tr>
+            <td style="padding: 20px; vertical-align: top; width: 50%;">
+                <p><span style="color:#c0392b"><strong><span style="font-size:20px">Welcome to Contactata LLC &ndash; Your Gateway to Digital Success</span></strong></span></p>
+
+                <p><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-serif">We&#39;re thrilled to welcome you to Contactata LLC, where we become more than just a service provider &ndash; we become your ally in the digital landscape. Unlock the potential of your business with our dynamic digital marketing and outsourcing solutions at Contactata LLC. Here, we&#39;re not just about services; we&#39;re about transforming your digital presence into a success story. Our team is committed to being your partner on this journey, providing tailored strategies that resonate with your brand. From effective digital marketing campaigns to seamless outsourcing solutions, we&#39;re here to elevate your business to new heights.</span></p>
+            </td>
+            <td style="padding: 20px;">
+                <img src="https://i.ibb.co/q95j4Yj/jason-goodman-vbxy-Fxlgpj-M-unsplash.jpg" alt="Contactata LLC Image" style="width: 60%; height: 20%; display: block; margin: 0 auto;">
+            </td>
+        </tr>
+    </table>
+
+    <div class="container mt-5">
+        <!-- What we do section -->
+        <section>
+            <table style="width: 100%; border-collapse: collapse;">
+                <tbody>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <p style="text-align: center;"><span style="color: #c0392b;"><span style="font-size: 48px;"><strong>&nbsp; What We Do</strong></span></span></p>
+                        </td>
+                        <td>&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td style="width: 33%;">
+                            <p style="text-align: center;"><span style="font-size: 26px;"><span style="color: #000000;"><strong>Search Engine Optimization (SEO)</strong></span></span></p>
+                            <p style="text-align: center;"><span style="font-size: 14px;">Improve your website's visibility and ranking on search engines with our tailored SEO strategies.</span></p>
+                            <p style="text-align: center;"><a href="/JobApplication"><button style="background-color: #800000; color: #ffffff;">Contact Us</button></a></p>
+                        </td>
+                        <td style="width: 33%;">
+                            <p style="text-align: center;"><span style="color: #000000;"><span style="font-size: 28px;"><strong>Social Media Marketing</strong></span></span></p>
+                            <p style="text-align: center;"><span style="font-size: 14px;">Engage and connect with your target audience on social media platforms.</span></p>
+                            <p style="text-align: center;"><a href="/JobApplication"><button style="background-color: #800000; color: #ffffff;">Contact Us</button></a></p>
+                        </td>
+                        <td style="width: 33%;">
+                            <p style="text-align: center;"><span style="color: #000000;"><span style="font-size: 26px;"><strong>Pay-Per-Click</strong></span></span></p>
+                            <p style="text-align: center;"><span style="font-size: 14px;">Maximize your online visibility and drive immediate results with our PPC advertising services.</span></p>
+                            <p style="text-align: center;"><a href="/JobApplication"><button style="background-color: #800000; color: #ffffff;">Contact Us</button></a></p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+
+           
+            <h1>Contact Us</h1>
+            <h4>General Inquiries & Feedback</h4>
+            <p>Have a question or want to share your thoughts? Fill out the form below, and we'll get back to you via email.</p>
+            <p style="text-align: center;"><a href="/JobApplication"><button style="background-color: #800000; color: #ffffff;">Reach out to Us</button></a></p>
+            <hr/>
+    </section>
+           
+          </div>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!-- Embed the Application Form and Saving Table -->
+    <div id="job-application-form">
+        @RenderSection("JobApplicationForm", required: false)
+    </div>
+
+    <div id="saved-entries">
+        @RenderSection("SavedEntries", required: false)
+    </div>
+    <!-- End of Application Form and Saving Table -->
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2023 - Contactata LLC - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

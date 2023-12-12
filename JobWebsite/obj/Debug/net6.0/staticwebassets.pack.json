@@ -1,0 +1,521 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Contactata.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Contactata.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\css\\linear-icon.css",
+      "PackagePath": "staticwebassets\\css\\linear-icon.css"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\css\\owl.theme.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\css\\weblysleek-ui-fonts.css",
+      "PackagePath": "staticwebassets\\css\\weblysleek-ui-fonts.css"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\fonts\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\fonts\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\fonts\\weblysleek-ui\\weblysleekuil-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\weblysleek-ui\\weblysleekuil-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\fonts\\weblysleek-ui\\weblysleekuil-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\weblysleek-ui\\weblysleekuil-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\fonts\\weblysleek-ui\\weblysleekuisb-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\weblysleek-ui\\weblysleekuisb-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\fonts\\weblysleek-ui\\weblysleekuisb-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\weblysleek-ui\\weblysleekuisb-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\fonts\\weblysleek-ui\\weblysleekuisl-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\weblysleek-ui\\weblysleekuisl-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\fonts\\weblysleek-ui\\weblysleekuisl-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\weblysleek-ui\\weblysleekuisl-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\fonts\\weblysleek-ui\\weblysleekuisli-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\weblysleek-ui\\weblysleekuisli-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\fonts\\weblysleek-ui\\weblysleekuisli-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\weblysleek-ui\\weblysleekuisli-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\images\\Logo.png",
+      "PackagePath": "staticwebassets\\images\\Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\images\\arrow-left.png",
+      "PackagePath": "staticwebassets\\images\\arrow-left.png"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\images\\arrow-right.png",
+      "PackagePath": "staticwebassets\\images\\arrow-right.png"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\images\\blog1.png",
+      "PackagePath": "staticwebassets\\images\\blog1.png"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\images\\blog2.png",
+      "PackagePath": "staticwebassets\\images\\blog2.png"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\images\\blog3.png",
+      "PackagePath": "staticwebassets\\images\\blog3.png"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\images\\clints_logo.png",
+      "PackagePath": "staticwebassets\\images\\clints_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\images\\feature-media-1.png",
+      "PackagePath": "staticwebassets\\images\\feature-media-1.png"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\images\\featured-vector.png",
+      "PackagePath": "staticwebassets\\images\\featured-vector.png"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\images\\header.png",
+      "PackagePath": "staticwebassets\\images\\header.png"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\images\\logo1.png",
+      "PackagePath": "staticwebassets\\images\\logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\images\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\images\\logo3.png",
+      "PackagePath": "staticwebassets\\images\\logo3.png"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\images\\logo4.png",
+      "PackagePath": "staticwebassets\\images\\logo4.png"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\images\\logo5.png",
+      "PackagePath": "staticwebassets\\images\\logo5.png"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\images\\logo6.png",
+      "PackagePath": "staticwebassets\\images\\logo6.png"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\images\\mail.png",
+      "PackagePath": "staticwebassets\\images\\mail.png"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\images\\pricing-icon-1.png",
+      "PackagePath": "staticwebassets\\images\\pricing-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\images\\pricing-icon-2.png",
+      "PackagePath": "staticwebassets\\images\\pricing-icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\images\\pricing-icon-3.png",
+      "PackagePath": "staticwebassets\\images\\pricing-icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\images\\quate.png",
+      "PackagePath": "staticwebassets\\images\\quate.png"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\images\\subscribe.png",
+      "PackagePath": "staticwebassets\\images\\subscribe.png"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\images\\testimonial-1.png",
+      "PackagePath": "staticwebassets\\images\\testimonial-1.png"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\images\\testimonials.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonials.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\images\\video.png",
+      "PackagePath": "staticwebassets\\images\\video.png"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\images\\workflow.png",
+      "PackagePath": "staticwebassets\\images\\workflow.png"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\js\\jquery-3.1.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sleek\\Downloads\\Quick Share\\Contactata LLC\\Contactata LLC\\JobWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Contactata.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Contactata.props",
+      "PackagePath": "build\\Contactata.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Contactata.props",
+      "PackagePath": "buildMultiTargeting\\Contactata.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Contactata.props",
+      "PackagePath": "buildTransitive\\Contactata.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

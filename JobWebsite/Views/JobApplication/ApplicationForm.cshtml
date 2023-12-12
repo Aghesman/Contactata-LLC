@@ -1,0 +1,43 @@
+﻿@model JobWebsite.Models.JobApplication
+
+<form asp-controller="JobApplication" asp-action="Submit" method="post">
+    <div>
+        <label asp-for="FirstName">First Name:</label>
+        <input asp-for="FirstName" class="form-control" />
+        <span asp-validation-for="FirstName"></span>
+    </div>
+
+    <div>
+        <label asp-for="MiddleName">Middle Name:</label>
+        <input asp-for="MiddleName" class="form-control" />
+        <span asp-validation-for="MiddleName"></span>
+    </div>
+
+    <div>
+        <label asp-for="LastName">Last Name:</label>
+        <input asp-for="LastName" class="form-control" />
+        <span asp-validation-for="LastName"></span>
+    </div>
+
+    <div>
+        <label asp-for="EmailAddress">Email Address:</label>
+        <input asp-for="EmailAddress" class="form-control" />
+        <span asp-validation-for="EmailAddress"></span>
+    </div>
+
+    <div>
+        <label asp-for="SubjectMatter">Subject Matter:</label>
+        <input asp-for="SubjectMatter" class="form-control" />
+        <span asp-validation-for="SubjectMatter"></span>
+    </div>
+
+    <div>
+        <label asp-for="Message">Message:</label>
+        <input asp-for="Message" class="form-control" />
+        <span asp-validation-for="Message"></span>
+    </div>
+
+    <div>
+        <button type="submit">SEND MESSAGE</button>
+    </div>
+</form>

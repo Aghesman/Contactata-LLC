@@ -1,0 +1,36 @@
+﻿@model List<JobApplication>
+
+<h1>Saved Entries</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Keep First Name</th>
+            <th>Keep Middle Name</th>
+            <th>Keep Last Name</th>
+            <th>Email Address</th>
+            <th>Subject Matter</th>
+            <th>Message</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var entry in Model)
+        {
+            <tr>
+                <td>@entry.FirstName</td>
+                <td>@entry.MiddleName</td>
+                <td>@entry.LastName</td>
+                <td>@entry.EmailAddress</td>
+                <td>@entry.SubjectMatter</td>
+                <td>@entry.Message</td>
+                <td>
+                    <form method="post" asp-controller="JobApplication" asp-action="Delete">
+                        <input type="hidden" name="id" value="@entry.Id" />
+                        <button type="submit">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
